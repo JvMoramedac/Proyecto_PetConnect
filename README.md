@@ -67,5 +67,3 @@ PetConnect está diseñada para no fallar, incluso sin conexión a internet:
 * **Concurrencia Avanzada:** Implementación de `ExecutorService` para delegar tareas pesadas a hilos secundarios, evitando bloqueos en la interfaz de usuario (UI Thread).
 * **Resiliencia de Red:** Capacidad de funcionamiento autónomo mediante persistencia en SQLite.
 
----
-> *Documentación generada para la presentación oficial de PetConnect.*
