@@ -5,7 +5,8 @@
 ## 📋 Resumen del Proyecto
 **PetConnect** nace como una solución tecnológica avanzada frente a la ineficiencia de los métodos tradicionales (redes sociales) para localizar mascotas perdidas. El proyecto se centra en **minimizar el tiempo de respuesta**, un factor crítico para garantizar la seguridad y la vida del animal.
 
-**Desarrolladores:** * 👨‍💻 **Francisco Javier Mora Lucena**
+**Desarrolladores:** 
+* 👨‍💻 **Francisco Javier Mora Lucena**
 * 👨‍💻 **Fernando Tejado Muñoz**
 
 ---
